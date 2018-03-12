@@ -1,5 +1,9 @@
 # React-Redux-Tutorial
 
-This was pushed upon completion of the 10th module titled 'Async in Redux'
+npm install
 
-Start at beginning of next Module in course 'Async Writes in Redux'
+for dev:
+npm start -s
+
+for production:
+npm run build
